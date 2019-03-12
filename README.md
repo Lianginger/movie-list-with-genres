@@ -3,7 +3,7 @@
 [Github Page link](https://lianginger.github.io/movie-list-with-genres/)
 
 ## 網站截圖
-![網站截圖](img/screenshot.jpg)
+![網站截圖](img/screenshot-1.jpg)
 
 ## 規格
 - 使用者可以瀏覽電影清單，資訊包括：海報、標題、分類
